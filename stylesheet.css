@@ -1,0 +1,116 @@
+body {
+	background-image: url("images/leather1200.jpg");
+}
+
+a {
+	text-decoration: none;
+	color:yellow;
+}
+
+a:hover {
+	font-size: 30px;
+}
+
+.title {
+	text-align: center;
+	font-family: times serif;
+	font-weight: bold;
+	font-size: 75px;
+	color: yellow;
+	text-shadow: 0px 5px 0px black;
+}
+
+
+.pagetitle{
+	text-align: center;
+	font-family: museo sans;
+	color: yellow;
+	font-size: 30px;
+	padding-top: 15px;
+	text-shadow: 3px 0px 0px black;
+}
+
+.tinylogo {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.tinylogohomepage {
+	text-align: center;
+	margin-top: 250px;
+}
+
+footer {
+	text-align: center;
+}
+footer .footerlinks ul ul {
+	
+	
+	color: yellow;
+	font-family: museo sans;
+	font-size: 25px;
+	text-shadow: 2px 0px 0px black;
+	display: inline-block;
+	padding-top: 50px;
+	
+}
+
+.placeholder {
+	text-align: center;
+}
+
+
+#welcome {
+	text-align: left;
+	font-family: museo sans;
+	color: yellow;
+	font-size: 20px;
+	padding-top: 15px;
+	text-shadow: 2px 0px 0px black;
+}
+
+#logo {
+	text-align: right;
+	margin-right: 100px;
+	margin-top: -75px;
+
+}
+
+#paburclov {
+	margin-top: -200px;
+	margin-left: 50px;
+}
+
+#linkdesc {
+	text-align: right;
+	font-family: museo sans;
+	color: yellow;
+	font-size: 20px;
+	margin-top: -300px;
+	margin-right: 50px;
+	text-shadow: 2px 0px 0px black;
+}
+
+#linkdesc ul li {
+	display: inline;
+	padding: 1px;
+	margin-right: 50px;
+}
+
+#about {
+	text-align: center;
+	color:yellow;
+	font-family: museo sans;
+	font-size: 25px;
+	text-shadow: 2px 0px 0px black;
+}
+
+#contact {
+	text-align: center;
+	color:yellow;
+	font-family: museo sans;
+	font-size: 25px;
+	text-shadow: 2px 0px 0px black;
+}
+
+
