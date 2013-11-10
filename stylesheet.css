@@ -40,12 +40,17 @@ p a:hover {
 
 .tinylogo {
 	text-align: center;
-	margin-top: 50px;
+	margin: auto;
 }
 
 .tinylogohomepage {
 	text-align: center;
 	margin-top: 250px;
+}
+
+.shadow {
+  box-shadow: 3px 3px 5px 6px black;
+  
 }
 
 footer {
@@ -58,9 +63,13 @@ footer .footerlinks ul ul {
 	font-family: museo sans;
 	font-size: 25px;
 	text-shadow: 2px 0px 0px black;
-	display: inline-block;
-	padding-top: 50px;
+	display: inline;
+	margin-top: 50px;
 	
+}
+
+footer .footerlinks ul ul a:hover {
+	font-size: 30px;
 }
 
 .placeholder {
@@ -120,6 +129,31 @@ footer .footerlinks ul ul {
 	font-size: 25px;
 	text-shadow: 2px 0px 0px black;
 }
-/*just for the commit*/
+
+.gallerypics .galleryleft ul {
+	float:left;
+	display: block;
+	margin-left: 50px;
+	box-shadow: 10px 0px 10px 0px black;
+} 
+
+.gallerypics .galleryright ul{
+	float: right;
+	display: block;
+	margin-right: 50px;
+	box-shadow: 10px 0px 10px 0px black;
+}
+
+
+/*.gallerypics ul ul {
+	display:inline-block;
+	padding: 25px;
+	
+/*-moz-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);
+	-webkit-box-shadow: 5px 5px 5px rgba(68,68,68,0.6);	
+  	
+	
+}
+
 
 
